@@ -45,6 +45,6 @@ coll = COLLECT(
 app = BUNDLE(
     coll,
     name='Scrypted Converter.app',
-    icon=None,
+    icon='AppIcon.icns',
     bundle_identifier=None,
 )
